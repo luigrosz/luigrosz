@@ -36,4 +36,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/luigrosz/
-[email]: groszlui@gmail.com
+[email]: mainto:(groszlui@gmail.com)
