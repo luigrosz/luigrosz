@@ -35,4 +35,4 @@
 <br />
 <br />
 
-[linkedin]: http://linkedin.com/luigrosz
+[linkedin]: https://www.linkedin.com/in/luigrosz/
