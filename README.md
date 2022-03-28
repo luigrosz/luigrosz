@@ -3,8 +3,8 @@
 ## I'm a Developer and Software Engineer!
 
 - 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate with other github repositories
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to code more personal projects
+- 🥅 2022 Goals: Get started with graphql
 
 ### Connect with me:
 
