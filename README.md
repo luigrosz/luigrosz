@@ -7,9 +7,9 @@ Web Developer
 I've been studying web development for 2 years, but since I was a child was interested in tech.
 
 🌍  I'm based in Brazil<br/>
-✉️  You can contact me at [groszlui@gmail.com](mailto:groszlui@gmail.com)
-🧠  I'm learning Go right now
-🤝  I'm open to collaborating on interesting projects
+✉️  You can contact me at [groszlui@gmail.com](mailto:groszlui@gmail.com)<br/>
+🧠  I'm learning Go right now<br/>
+🤝  I'm open to collaborating on interesting projects<br/>
 
 ### Skills
 
