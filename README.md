@@ -8,7 +8,7 @@ I've been studying web development for 2 years, but since I was a child was inte
 
 🌍  I'm based in Brazil<br/>
 ✉️  You can contact me at [groszlui@gmail.com](mailto:groszlui@gmail.com)<br/>
-🧠  I'm learning Go right now<br/>
+🧠  I'm learning Java right now<br/>
 🤝  I'm open to collaborating on interesting projects<br/>
 
 ### Skills
