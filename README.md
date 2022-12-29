@@ -1,15 +1,13 @@
-Hi 👋 My name is Lui Grosz
+My name is Lui Grosz
 ==========================
 
-Web Developer
+Full Stack Developer
 -------------
 
-I've been studying web development for 2 years, but since I was a child was interested in tech.
+I've been studying development for 2 years, but since I was a child was interested in tech.
 
-🌍  I'm based in Brazil<br/>
-✉️  You can contact me at [groszlui@gmail.com](mailto:groszlui@gmail.com)<br/>
-🧠  I'm learning Ruby on Rails<br/>
-🤝  I'm open to collaborating on interesting projects<br/>
+You can contact me at [groszlui@gmail.com](mailto:groszlui@gmail.com)<br/>
+I'm learning Rust and Ruby on Rails<br/>
 
 ### Skills
 
