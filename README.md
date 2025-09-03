@@ -1,1 +1,1 @@
-you can contact me at [groszlui@gmail.com](mailto:business@luigrosz.com)<br/>
+you can contact me at [business@luigrosz.com](mailto:business@luigrosz.com)<br/>
